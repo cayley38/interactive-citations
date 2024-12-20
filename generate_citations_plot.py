@@ -52,5 +52,5 @@ fig_filtered.update_layout(
 )
 
 # Save the updated plot as an interactive HTML file
-fig_filtered.write_html("citations_plot.html")
+fig_filtered.write_html("citations-plot-file.html")
 print("Interactive plot saved as 'citations_plot.html'")
